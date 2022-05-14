@@ -11,6 +11,8 @@
 ## how to run the script
 
 ```
+source /isilon/RnD/tools/bcbio_072619/env.sh
+
 python /isilon/RnD/tools/custom_script/bedtools/run_intersect_bed_vcf.py -i [VCF_input_directory] -b [bed file] -o [Output_directory]
 ```
 
