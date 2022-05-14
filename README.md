@@ -2,11 +2,8 @@
 
 ## login to R\&D cluster
 
-- Open putty
-
-![Screenshot](screenshot/putty.png)
-
-- As shown in the image, provide the Host Name `sequencer@172.27.200.150`
+- Start putty
+- Provide the Host Name `sequencer@172.27.200.150`
 - Then, open a terminal by clicking the `Open` button
 
 ![Screenshot](image/putty_login.png)  
